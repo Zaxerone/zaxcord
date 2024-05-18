@@ -1,0 +1,32 @@
+{
+  "name": "zaxcord",
+  "version": "1.0.0",
+  "description": "A discord.js framework",
+  "main": "test/test.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "dependencies": {
+    "discord.js": "^14.15.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node test/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zaxerone/zaxcord.git"
+  },
+  "keywords": [
+    "discord",
+    "framework",
+    "handler"
+  ],
+  "author": "Zaxerone",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Zaxerone/zaxcord/issues"
+  },
+  "homepage": "https://github.com/Zaxerone/zaxcord#readme"
+}
