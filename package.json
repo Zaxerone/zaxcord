@@ -8,9 +8,9 @@
     "test": "test"
   },
   "dependencies": {
+    "base-64": "^1.0.0",
     "discord.js": "^14.15.2"
   },
-  "devDependencies": {},
   "scripts": {
     "test": "node test/test.js"
   },
