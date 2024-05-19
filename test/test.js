@@ -7,6 +7,9 @@ const client = new ZxClient({
   commandsPath: "./test/my-commands",
   eventsPath: "./test/my-events",
   createHandlerFolders: true,
+  disableReadyMessage: false,
 });
 
+client.handleCommands();
+client.handleEvents();
 client.start();
