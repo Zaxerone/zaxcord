@@ -1,7 +1,7 @@
 {
   "name": "zaxcord",
   "version": "1.0.0",
-  "description": "A discord.js framework",
+  "description": "A discord.js framework focused on simplicity and customization",
   "main": "test/test.js",
   "directories": {
     "lib": "lib",
