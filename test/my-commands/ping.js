@@ -1,3 +1,4 @@
+// Example ping command
 const { CommandBuilder } = require("../../index");
 
 module.exports = {
@@ -5,6 +6,6 @@ module.exports = {
     .setName("ping")
     .setDescription("Replies with Pong!"),
   async execute(interaction) {
-    interaction.reply("Pong!");
+    await interaction.reply("Pong!");
   },
 };

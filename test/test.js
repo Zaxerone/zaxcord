@@ -1,5 +1,5 @@
 require("dotenv").config();
-const { ZxClient, GatewayIntentBits } = require("../index.js");
+const { ZxClient, GatewayIntentBits, Logger } = require("../index.js");
 
 const client = new ZxClient({
   intents: [GatewayIntentBits.Guilds],
@@ -7,6 +7,7 @@ const client = new ZxClient({
   commandsPath: "./test/my-commands",
   eventsPath: "./test/my-events",
   createHandlerFolders: true,
+  createExampleFiles: true,
   disableReadyMessage: false,
 });
 
