@@ -2,31 +2,36 @@
   "name": "zaxcord",
   "version": "1.0.0",
   "description": "A discord.js framework focused on simplicity and customization",
+  "keywords": [
+    "discord",
+    "framework",
+    "handler",
+    "bot"
+  ],
+  "author": "Zaxerone",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zaxerone/zaxcord.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Zaxerone/zaxcord/issues"
+  },
+  "homepage": "https://github.com/Zaxerone/zaxcord#readme",
+  "engines": {
+    "node": ">=20.11.1"
+  },
+  "packageManager": "pnpm@9.1.1",
   "main": "test/test.js",
-  "directories": {
-    "lib": "lib",
-    "test": "test"
+  "scripts": {
+    "test": "node test/test.js"
   },
   "dependencies": {
     "discord.js": "^14.15.2",
     "dotenv": "^16.4.5"
   },
-  "scripts": {
-    "test": "node test/test.js"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Zaxerone/zaxcord.git"
-  },
-  "keywords": [
-    "discord",
-    "framework",
-    "handler"
-  ],
-  "author": "Zaxerone",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/Zaxerone/zaxcord/issues"
-  },
-  "homepage": "https://github.com/Zaxerone/zaxcord#readme"
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  }
 }
