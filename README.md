@@ -77,7 +77,7 @@ client.start();
 - pnpm 9.1.1 or higher
 
 ```sh
-git clone https://github.com/Zaxxon-dev/ZaxCord.git
-cd ZaxCord
+git clone https://github.com/Zaxxon-dev/zaxcord.git
+cd zaxcord
 pnpm install
 ```
