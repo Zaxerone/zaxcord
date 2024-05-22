@@ -36,6 +36,7 @@
 - **Menus**: (Coming Soon) Menu interactions.
 - **Modal Submit**: (Coming Soon) Handle modal submissions.
 - **Sharding**: (Coming Soon) Support for sharding your bot.
+- **Link Mode**: (Coming Soon) Link ZaxCord to an existing discord.js client.
 
 > <picture>
 >   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mqxx/GitHub-Markdown/main/blockquotes/badge/light-theme/note.svg">
