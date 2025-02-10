@@ -4,7 +4,7 @@
 <h1 align="center">ZaxCord</h1>
 
 <p align="center">
-  <b>A discord.js framework focused on simplicity and customization</b>
+  <b>[BETA] A discord.js framework focused on simplicity and customization</b>
 </p>
 
 <p align="center">
