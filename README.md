@@ -23,20 +23,20 @@
 ## Features
 
 - **Commands**: Easily create and manage commands.
-- **Cooldowns**: Implement cooldowns to prevent spam.
+- **Cooldowns**: (BETA) Implement cooldowns to prevent spam.
 - **Logging**: Built-in logging for better debugging.
-- **Database**: (Coming Soon) Database integration for persistent storage.
+- **Database**: (Not implemented yet) Database integration for persistent storage.
 - **Utils**: Utility functions to simplify your code.
 - **Events**: Handle Discord events with ease.
 - **Interactions**: Manage interactions like buttons and modals.
-- **Modals**: (Coming Soon) Support for modal dialogs.
-- **Buttons**: (Coming Soon) Button interactions.
-- **Selects**: (Coming Soon) Select menu interactions.
-- **Context Menus**: (Coming Soon) Context menu interactions.
-- **Menus**: (Coming Soon) Menu interactions.
-- **Modal Submit**: (Coming Soon) Handle modal submissions.
-- **Sharding**: (Coming Soon) Support for sharding your bot.
-- **Link Mode**: (Coming Soon) Link ZaxCord to an existing discord.js client.
+- **Modals**: (Not implemented yet) Support for modal dialogs.
+- **Buttons**: (Not implemented yet) Button interactions.
+- **Selects**: (Not implemented yet) Select menu interactions.
+- **Context Menus**: (Not implemented yet) Context menu interactions.
+- **Menus**: (Not implemented yet) Menu interactions.
+- **Modal Submit**: (Not implemented yet) Handle modal submissions.
+- **Sharding**: (Not implemented yet) Support for sharding your bot.
+- **Link Mode**: (BETA) Link ZaxCord to an existing discord.js client.
 
 > <picture>
 >   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mqxx/GitHub-Markdown/main/blockquotes/badge/light-theme/note.svg">
